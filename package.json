@@ -1,0 +1,11 @@
+{
+  "name": "playground-vue3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dword-design/playground-vue3.git",
+  "author": "dword <info@sebastianlandwehr.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "python -m http.server 8000"
+  }
+}
